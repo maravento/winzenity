@@ -1,46 +1,46 @@
-## Zenity for Windows
+## WinZenity (Zenity Portable for Windows)
 
-[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.txt)
+[**WinZenity** (Zen Dialogs for Windows)](https://es.wikipedia.org/wiki/Zenity) is a software that allows generating simple dialogues as a wrapper and designed as a substitute for gdialog for GNOME and console dialog. It uses the GTK + and GLADE libraries. This version was ported to run on Windows Systems
 
-**Zenity** is a utility used to add GUI forms to scripts and receive feedback from the user. It was designed for use with Linux and GNOME. It uses GTK+ and GLADE libraries. The latest version of Zenity Linux (3.20.0) was ported to Windows (win32 portable version 3.8.0).
+[**WinZenity** (Zen Dialogs for Windows)](https://en.wikipedia.org/wiki/Zenity) es un software que permite generar diálogos simples a manera de wrapper e ideado como sustituto de gdialog para GNOME y dialog en consola. Utiliza las bibliotecas GTK + y GLADE. Esta versión fue portada para ejecutarse en Sistemas Windows
 
-### Descripción / Description
+### DATA SHEET
+---
 
-|Download Win32|Size|SO|Version|Released|Last Update|MD5|
-|--------------|----|--|-------|--------|-----------|---|
-|[zenity.exe](https://github.com/maravento/winzenity/raw/master/zenity.exe)|1.9 MB|Windows XP/7/8/10|3.8.0 (gtk 3.8.2)|Jul 01, 2013|October 11, 2016|[zenity.md5](https://github.com/maravento/winzenity/raw/master/zenity.md5)|
+|Download|Size|OS|Portable Version|Modified src|Help|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[zenity.exe (.zip)](https://github.com/maravento/winzenity/raw/master/zenity.zip) (Win32)|2 MB|Win XP/7/8/10|3.6|[src](https://github.com/maravento/winzenity/raw/master/zenity-3.6.0_src.7z)|[help](https://github.com/maravento/winzenity/raw/master/zenityhelp.txt)|
 
-### Oficial Project (Down since October 2016)
+### ORIGINAL PROJECT
+---
 
-* http://osspack32.googlecode.com
-* http://www.placella.com/software/zenity/
-* https://opensourcepack.blogspot.com.co/2013/02/zenity-360-portable.html
+| Developers | Released |
+| :---: | :---: |
+| Glynn Foster, Lucas Rocha (Sun Microsystems)| 2013 |
 
-### Manual/Wiki
-
-* http://help.gnome.org/users/zenity/stable/index.html.en
-* https://help.gnome.org/users/zenity/stable/index.html.es
-* https://wiki.gnome.org/action/show/Projects/Zenity
-
-### Authors
-
-Original author(s):	Sun Microsystems
-Developer(s):	Glynn Foster, Lucas Rocha
-
-### Source Code
+### REFERENCES
+---
 
 * http://ftp.gnome.org/pub/gnome/sources/zenity
+* http://help.gnome.org/users/zenity/stable/index.html.en
+* http://osspack32.googlecode.com
+* https://github.com/GNOME/zenity
+* https://github.com/kvaps/zenity-windows/
+* https://help.gnome.org/users/zenity/stable/index.html.es
+* https://wiki.gnome.org/action/show/Projects/Zenity
+* http://www.placella.com/software/zenity/
 
-### Alterative Project
+### LICENCES
+---
 
-* https://github.com/kvaps/zenity-windows
+[![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.txt)
 
-### Licence
+[![CreativeCommons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[maravento.com](http://www.maravento.com) is licensed under a [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+© 2019 [Maravento Studio](http://www.maravento.com)
 
-© 2017 [Maravento Studio](http://www.maravento.com)
-
-#### Disclaimer
+### DISCLAIMER
+---
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
