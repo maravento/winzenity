@@ -11,6 +11,12 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |[zenity.exe (.zip)](https://github.com/maravento/winzenity/raw/master/zenity.zip) (Win32)|2 MB|Win XP/7/8/10|3.6|[src](https://github.com/maravento/winzenity/raw/master/zenity-3.6.0_src.7z)|[help](https://github.com/maravento/winzenity/raw/master/zenityhelp.txt)|
 
+### GIT CLONE
+---
+```
+git clone --depth=1 https://github.com/maravento/winzenity.git
+```
+
 ### ORIGINAL PROJECT
 ---
 
