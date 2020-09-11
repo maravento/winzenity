@@ -1,8 +1,8 @@
 # WinZenity (Zenity Portable for Windows)
 
-[**WinZenity** (Zen Dialogs for Windows)](https://es.wikipedia.org/wiki/Zenity) is a software that allows generating simple dialogues as a wrapper and designed as a substitute for gdialog for GNOME and console dialog. It uses the GTK + and GLADE libraries. This version was ported to run on Windows Systems
+[**WinZenity** (Zen Dialogs for Windows)](https://en.wikipedia.org/wiki/Zenity) is a software that allows generating simple dialogues as a wrapper and designed as a substitute for gdialog for GNOME and console dialog. It uses the GTK + and GLADE libraries. This version was ported to run on Windows Systems
 
-[**WinZenity** (Zen Dialogs for Windows)](https://en.wikipedia.org/wiki/Zenity) es un software que permite generar diálogos simples a manera de wrapper e ideado como sustituto de gdialog para GNOME y dialog en consola. Utiliza las bibliotecas GTK + y GLADE. Esta versión fue portada para ejecutarse en Sistemas Windows
+[**WinZenity** (Zen Dialogs for Windows)](https://es.wikipedia.org/wiki/Zenity) es un software que permite generar diálogos simples a manera de wrapper e ideado como sustituto de gdialog para GNOME y dialog en consola. Utiliza las bibliotecas GTK + y GLADE. Esta versión fue portada para ejecutarse en Sistemas Windows
 
 ## DATA SHEET
 
