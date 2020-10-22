@@ -1,16 +1,16 @@
 # WinZenity (Zenity Portable for Windows)
 
-[**WinZenity** (Zen Dialogs for Windows)](https://es.wikipedia.org/wiki/Zenity) is a software that allows generating simple dialogues as a wrapper and designed as a substitute for gdialog for GNOME and console dialog. It uses the GTK + and GLADE libraries. This version was ported to run on Windows Systems
+[**WinZenity** (Zen Dialogs for Windows)](https://en.wikipedia.org/wiki/Zenity) is a software that allows generating simple dialogues as a wrapper and designed as a substitute for gdialog for GNOME and console dialog. It uses the GTK + and GLADE libraries. This version was ported to run on Windows Systems
 
-[**WinZenity** (Zen Dialogs for Windows)](https://en.wikipedia.org/wiki/Zenity) es un software que permite generar diálogos simples a manera de wrapper e ideado como sustituto de gdialog para GNOME y dialog en consola. Utiliza las bibliotecas GTK + y GLADE. Esta versión fue portada para ejecutarse en Sistemas Windows
+[**WinZenity** (Zen Dialogs for Windows)](https://es.wikipedia.org/wiki/Zenity) es un software que permite generar diálogos simples a manera de wrapper e ideado como sustituto de gdialog para GNOME y dialog en consola. Utiliza las bibliotecas GTK + y GLADE. Esta versión fue portada para ejecutarse en Sistemas Windows
 
 ## DATA SHEET
 
 ---
 
-|Download|Size|OS|Portable Version|Modified src|Help|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|[zenity.exe (.zip)](https://github.com/maravento/winzenity/raw/master/zenity.zip) (Win32)|2 MB|Win XP/7/8/10|3.6|[src](https://github.com/maravento/winzenity/raw/master/zenity-3.6.0_src.7z)|[help](https://github.com/maravento/winzenity/raw/master/zenityhelp.txt)|
+|Download|Size|OS|Portable Version|Modified src|
+| :---: | :---: | :---: | :---: | :---: |
+|[zenity.exe (.zip)](https://github.com/maravento/winzenity/raw/master/zenity.zip) (Win32)|2 MB|Win XP/7/8/10|3.6|[src](https://github.com/maravento/winzenity/raw/master/zenity-3.6.0_src.7z)|
 
 ## GIT CLONE
 
@@ -19,6 +19,21 @@
 ```bash
 git clone --depth=1 https://github.com/maravento/winzenity.git
 ```
+
+## HOW TO USE
+
+---
+
+### Commands
+
+* [Help](https://github.com/maravento/winzenity/raw/master/zenityhelp.txt)
+
+### Example Projects
+
+* [Trek](https://github.com/maravento/trek)
+* [uniOPOS](https://github.com/maravento/uniopos)
+* [WinExternal](https://github.com/maravento/winexternal)
+* [Dextroyer](https://github.com/maravento/dxt)
 
 ## ORIGINAL PROJECT
 
