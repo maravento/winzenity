@@ -8,7 +8,7 @@
 
 ---
 
-|Download|Size|OS|Portable Version|Modified src|
+|Portable|Size|OS|Version|Modified src|
 | :---: | :---: | :---: | :---: | :---: |
 |[zenity.exe (.zip)](https://github.com/maravento/winzenity/raw/master/zenity.zip) (Win32)|2 MB|Win XP/7/8/10|3.6|[src](https://github.com/maravento/winzenity/raw/master/zenity-3.6.0_src.7z)|
 
@@ -30,10 +30,10 @@ git clone --depth=1 https://github.com/maravento/winzenity.git
 
 ### Example Projects
 
-* [Trek](https://github.com/maravento/trek)
-* [uniOPOS](https://github.com/maravento/uniopos)
 * [WinExternal](https://github.com/maravento/winexternal)
 * [Dextroyer](https://github.com/maravento/dxt)
+* [Trek](https://gitlab.com/maravento/trek)
+* [uniOPOS](https://gitlab.com/maravento/uniopos)
 
 ## ORIGINAL PROJECT
 
@@ -65,7 +65,7 @@ git clone --depth=1 https://github.com/maravento/winzenity.git
 [![CreativeCommons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 [maravento.com](https://www.maravento.com) is licensed under a [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-© 2020 [Maravento Studio](https://www.maravento.com)
+© 2021 [Maravento Studio](https://www.maravento.com)
 
 ## DISCLAIMER
 
