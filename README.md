@@ -56,6 +56,12 @@ git clone --depth=1 https://github.com/maravento/winzenity.git
 * https://wiki.gnome.org/action/show/Projects/Zenity
 * http://www.placella.com/software/zenity/
 
+## IMPORTANT
+
+---
+
+This project is no longer supported or updated / Este proyecto ya no cuenta con soporte o actualizaciones
+
 ## LICENCES
 
 ---
